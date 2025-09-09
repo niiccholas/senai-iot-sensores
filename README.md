@@ -30,6 +30,13 @@ No projeto com o ESP32, aprendemos a integrar sensores de umidade, luz e proximi
 - Wokwi para simulações em protótipos
 - Thonny como IDE
 
+## Links
+
+- Desafio: https://youtube.com/shorts/8rjo5v2sGDc
+- Umidade: https://youtube.com/shorts/jG-8gz5sXqQ
+- Luminosidade: https://youtube.com/shorts/PGx99se6z3M
+- Presença (Proximidade): https://youtube.com/shorts/J9bu2UI57E0
+
 
 ## Como Executar
 
